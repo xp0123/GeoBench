@@ -10,7 +10,7 @@ echo "- Output: $log_file"
 mkdir -p "./final_saves/${current_time}/logs"
 > $log_file
 
-for i in $(seq 6 6);
+for i in $(seq 1 6);
 do
     start_time=$(date +%s)
     echo "[$(date +'%Y-%m-%d %H:%M:%S')] Running geo_$i..." | tee -a $log_file
