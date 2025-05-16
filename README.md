@@ -2,7 +2,7 @@
     <h1> GeoBench: Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation</a></h2>
 
   <p align="center">
-    <a href="https://huggingface.co/xp0123/GeoBench">🤗Data</a>
+    <a href="https://huggingface.co/datasets/xp0123/GeoBench">🤗Data</a>
   </p>
   <br>
   <img width="95%" src=./assets/teaser.png>
@@ -12,7 +12,7 @@
 
 ## 🚩 News
 
-- [2025/5/16] Initialize thr project. Release the the evaluation code and data for GeoBench. See [here](https://huggingface.co/xp0123/GeoBench).
+- [2025/5/16] Initialize thr project. Release the the evaluation code and data for GeoBench. See [here](https://huggingface.co/datasets/xp0123/GeoBench).
 
 
 ## 🏃 Intro GeoBench
